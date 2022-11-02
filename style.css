@@ -1,0 +1,51 @@
+background {
+  color: white;
+}
+
+nav {
+color: black;
+font-family: Arial, Serif;
+font-size: 20px;
+}
+
+a {
+font-family: Arial, Serif;
+font-size: 20px;
+}
+
+a: link {color: blue;}
+a: visited {color: purple; }
+a: hover {color: green;}
+a: active {color: red;}
+
+img {
+width = 100%
+}
+
+h1 {
+color: black;
+font-family: Arial, Serif;
+font-size: 50px;
+text-align: center;
+}
+
+h2 {
+color: black;
+font-family: Arial, Serif;
+font-size: 40px;
+text-align: center;
+}
+
+h3 {
+color: black;
+font-family: Arial, Serif;
+font-size: 30px;
+text-align: center;
+}
+
+p {
+color: black;
+font-family: Arial, Serif;
+font-size: 12px;
+text-align: left;
+}
