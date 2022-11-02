@@ -2,6 +2,12 @@ background {
   color: white;
 }
 
+header {
+background: lightgray;
+margin: 20px 15px 20px 15px;
+padding: 10px;
+}
+
 nav {
 color: black;
 font-family: Arial, Serif;
@@ -19,8 +25,14 @@ a: visited {color: purple; }
 a: hover {color: green;}
 a: active {color: red;}
 
+article {
+background: lightgray;
+}
+
 img {
-width = 100%
+border-radius: 10px;
+width: 100%;
+height: auto;
 }
 
 h1 {
@@ -44,10 +56,17 @@ font-size: 30px;
 text-align: center;
 }
 
+h6 {
+color: black;
+font-family: Arial, Serif;
+font-size: 20px;
+text-align: center;
+}
+
 p {
 color: black;
 font-family: Arial, Serif;
-font-size: 12px;
+font-size: 15px;
 text-align: left;
 }
 
