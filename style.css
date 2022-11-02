@@ -6,6 +6,7 @@ nav {
 color: black;
 font-family: Arial, Serif;
 font-size: 20px;
+text-align: center;
 }
 
 a {
@@ -48,4 +49,11 @@ color: black;
 font-family: Arial, Serif;
 font-size: 12px;
 text-align: left;
+}
+
+footer {
+color: black;
+font-family: Arial, Serif;
+font-size: 10px;
+text-align: center;
 }
